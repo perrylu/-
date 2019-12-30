@@ -7,6 +7,7 @@
 | 中国访问是否vpn |   是                                       |
 | 注册地址       |https://hi.ssrcf.top/auth/register?code=jsfE |
 
+
 **ss、ssr_everyDay**
 | ---------------- | ------------------------------------------- |
 | 建议类型          | ssr                                         |
